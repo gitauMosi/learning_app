@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+//home
+![alt text](<Screenshot from 2024-11-04 17-09-22.png>)
 
-A few resources to get you started if this is your first Flutter project:
+//explore
+![alt text](<Screenshot from 2024-11-04 17-09-34.png>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+//view page
+![alt text](<Screenshot from 2024-11-04 17-09-27.png>)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+//chat page
+![alt text](<Screenshot from 2024-11-04 17-09-39.png>)
+
+//profie
+![alt text](<Screenshot from 2024-11-04 17-09-43.png>)
